@@ -16,5 +16,5 @@ jobs:
         python-version: '3.9'
 
     - name: Run script
-      run: python WEEK2/task-2/app.py
+      run: python WEEK-2/task-2/app.py
 
