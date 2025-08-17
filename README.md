@@ -1,4 +1,2 @@
-""DevOps Trainee Journey Begins 🚀
-By: Tarun Valireddy
-Date: 17-Aug-2025""
+```This is the pratice Repo used to do tasks and from a separate branch and Pushed to main branch.
 
