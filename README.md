@@ -1,5 +1,4 @@
 
-- DevOps Trainee Journey Begins 🚀
-- By: Tarun Valireddy
+### DevOps Trainee Journey Begins 🚀 by Tarun Valireddy 
 - Date: 17-Aug-2025
 
